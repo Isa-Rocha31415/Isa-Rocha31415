@@ -1,12 +1,3 @@
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=isa-Rocha31415&theme=darcula)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-Rocha31415&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-Rocha31415)](https://github.com/anuraghazra/github-readme-stats)
-
-
 👋 Hi there, I’m Isa Rocha
 
 🧠 About Me
